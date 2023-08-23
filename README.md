@@ -16,7 +16,7 @@ Figure 1: The Dynamic Reproduction of Projectiles in Ballistic Environments for 
 The roller followed a predefined profile that ranged from 48 mm (closest to the fixity) to 175 mm as presented in the inset of Figure 2. The beam is self-excited by the roller's movements and therefore no extraneous inputs are required, however, this does require an initial input to the beam, which consists of a small roller movement, to initiate vibrations in the beam. In addition to this initial input, the test profile consists of six square wave inputs of increasing amplitude in addition to six sinusoidal inputs and six impulse inputs. For the cases of the square and impulse inputs, the actuator velocity was maximized to the extent allowed by the actuator and associated controller (250 mm/s). The measured vibration data is shown in figure 3.
 
 <p align="center">
-<img src="images/pin_locatoin_data.png" alt="drawing" width="600"/>
+<img src="media/pin_locatoin_data.png" alt="drawing" width="600"/>
 </p>
 <p align="center">
 Figure 2: Displacement of roller used in the generation of this dataset. 
@@ -25,14 +25,14 @@ Figure 2: Displacement of roller used in the generation of this dataset.
 The measured vibration data is shown in figure 3.  Data acquisition was performed using a 14-bit ADC (PXI-6133) for the linear transducer (SPS-L225-HALS manufactured by Honeywell) while acceleration data was acquired using a 24-bit IEPE ADC (NI-9234).
 
 <p align="center">
-<img src="images/acceleration_data.png" alt="drawing" width="600"/>
+<img src="media/acceleration_data.png" alt="drawing" width="600"/>
 </p>
 <p align="center">
 Figure 3: Measured acceleration data for this data set. 
 </p>
 
 <p align="center">
-<img src="images/DROPBEAR_Setup.png" alt="drawing" width="600"/>
+<img src="media/DROPBEAR_Setup.png" alt="drawing" width="600"/>
 </p>
 <p align="center">
 Figure 4: DROPBEAR test setup with displacement input and measured acceleration.

@@ -7,7 +7,7 @@ This data set consists of acceleration data measured from the Reproduction of Pr
 DROPBEAR consists of a 51 x 6 x 350 mm beam with a single accelerometer (model 393B04 manufactured by PCB Piezotronics) mounted at the free edge of the beam was used. A video of the test along can be found <a href="https://www.youtube.com/watch?v=ZB6AUWgWyJU&ab_channel=ARTS-LabattheUniversityofSouthCarolinaARTS-LabattheUniversityofSouthCarolina">here</a>.
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=ZB6AUWgWyJU&ab_channel=ARTS-LabattheUniversityofSouthCarolinaARTS-LabattheUniversityofSouthCarolina"><img src="images/DROPBEAR.png" alt="Shock test impact testing" width="800"></a>  
+<a href="https://www.youtube.com/watch?v=ZB6AUWgWyJU&ab_channel=ARTS-LabattheUniversityofSouthCarolinaARTS-LabattheUniversityofSouthCarolina"><img src="media/DROPBEAR.png" alt="Shock test impact testing" width="800"></a>  
 </p>
 <p align="center">
 Figure 1: The Dynamic Reproduction of Projectiles in Ballistic Environments for Advanced Research (DROPBEAR) experimental testbed with key components annotated (click the image to view the video on YouTube). 

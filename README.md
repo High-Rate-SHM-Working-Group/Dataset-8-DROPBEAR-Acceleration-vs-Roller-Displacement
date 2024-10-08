@@ -30,7 +30,7 @@ Cite this data as:
 
 Alexander Vereen, Austin Downey, Jacob Dodson, Adriane G Moura “Dataset-8-dropbearacceleration-vs-roller-displacement,” Aug. 2023. [Online]. Available: https://github.com/High-Rate-SHM-Working-Group/Dataset-8-DROPBEAR-Acceleration-vs-Roller-Displacement
 
-@Misc{Downey2021Dataset2Dropbear,  
+@Misc{Vereen2023Dataset8Dropbear,  
   author = {Alexander Vereen and Austin Downey and Jacob Dodson and Adriane G Moura},  
   month  = aug,  
   title  = {Dataset-8-DROPBEAR-Acceleration-vs-Roller-Displacement},  

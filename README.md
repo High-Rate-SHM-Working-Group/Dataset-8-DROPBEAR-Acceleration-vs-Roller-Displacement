@@ -1,4 +1,4 @@
-# Dataset 8 DROPBEAR Acceleration vs Roller Displacement
+# Dataset-8 DROPBEAR Acceleration vs Roller Displacement
 
 
 This data set consists of acceleration data measured from the Reproduction of Projectiles in Ballistic Environments for Advanced Research (DROPBEAR) experimental testbed with movable roller support as shown in Figure 1. This dataset was developed as an extension to Dataset-2 <a href="https://github.com/High-Rate-SHM-Working-Group/Dataset-2-DROPBEAR-Acceleration-vs-Roller-Displacement">here</a> with an emphasis on the generation of data in the quality and quantity needed to apply machine learning approaches. A video of the older test configuration can be found <a href="https://www.youtube.com/watch?v=ZB6AUWgWyJU&ab_channel=ARTS-LabattheUniversityofSouthCarolinaARTS-LabattheUniversityofSouthCarolina">here</a>.
@@ -33,7 +33,7 @@ Alexander Vereen, Austin Downey, Jacob Dodson, Adriane G Moura “Dataset-8-drop
 @Misc{Vereen2023Dataset8Dropbear,  
   author = {Alexander Vereen and Austin Downey and Jacob Dodson and Adriane G Moura},  
   month  = aug,  
-  title  = {Dataset-8-DROPBEAR-Acceleration-vs-Roller-Displacement},  
+  title  = {Dataset-8 DROPBEAR Acceleration vs Roller Displacement},  
   year   = {2023},  
   groups = {High-Rate-SHM-Working-Group},  
   url    = {https://github.com/High-Rate-SHM-Working-Group/Dataset-8-DROPBEAR-Acceleration-vs-Roller-Displacement},  
